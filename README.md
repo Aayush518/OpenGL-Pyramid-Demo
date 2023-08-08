@@ -1,7 +1,7 @@
 
 # OpenGL-Pyramid-Demo
 
-Welcome to the 3D Visualization Project repository! This project provides an interactive 3D visualization using the OpenGL library, demonstrating a rotating pyramid with labeled vertices and an adjustable observer point.
+This project provides an interactive 3D visualization using the OpenGL library, demonstrating a rotating pyramid with labeled vertices and an adjustable observer point.
 
 ![Project Demo](demo.gif)
 
