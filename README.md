@@ -61,4 +61,3 @@ This project showcases a simple 3D visualization using Python and OpenGL. It inc
 
 _This project was created as part of a computer graphics exploration. Feel free to use it for learning, personal projects, or as a foundation for more advanced visualizations._
 ```
-
