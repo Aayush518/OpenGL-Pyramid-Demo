@@ -29,8 +29,8 @@ This project showcases a simple 3D visualization using Python and OpenGL. It inc
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/Aayush518/3d-visualization.git
-   cd 3d-visualization
+   git clone https://github.com/Aayush518/OpenGL-Pyramid-Demo.git
+   cd OpenGL-Pyramid-Demo
    ```
 
 2. Install the required dependencies:
